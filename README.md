@@ -33,19 +33,24 @@
   - Full project developed in NetBeans
 
 ---
-## 🖼️ Screenshots
+Here are some screenshots showing how the Bank Management System works:
 
-Here are some screenshots showing how the Bank Management System runs:
+###  Login Page
+<img width="1273" height="726" alt="Login Page" src="https://github.com/user-attachments/assets/0ebcd08b-d694-4778-a65e-30ef9cb8a1e7" />
 
--  **Login Page**
-<img width="1273" height="726" alt="image" src="https://github.com/user-attachments/assets/0ebcd08b-d694-4778-a65e-30ef9cb8a1e7" />
-- **Sign Up Process**
-<img width="1362" height="829" alt="image" src="https://github.com/user-attachments/assets/b252264e-9de1-40c9-bb6f-6d8774863d6f" />
--  **Transaction Options (Deposit, Withdraw, etc.)**
-<img width="1269" height="618" alt="image" src="https://github.com/user-attachments/assets/9d3b10e1-b68b-4e30-8f6b-e1de0e6fbb49" />
--  **Mini Statement Output**
-<img width="576" height="744" alt="image" src="https://github.com/user-attachments/assets/d7ad261b-f9ad-49e8-b5ff-69534a4efc0b" />
+---
 
+###  Sign Up Process
+<img width="1362" height="829" alt="Sign Up" src="https://github.com/user-attachments/assets/b252264e-9de1-40c9-bb6f-6d8774863d6f" />
 
+---
 
+###  Transaction Options (Deposit, Withdraw, Fast Cash)
+<img width="1269" height="618" alt="Transaction Options" src="https://github.com/user-attachments/assets/9d3b10e1-b68b-4e30-8f6b-e1de0e6fbb49" />
 
+---
+
+###  Mini Statement Output
+<img width="576" height="744" alt="Mini Statement" src="https://github.com/user-attachments/assets/d7ad261b-f9ad-49e8-b5ff-69534a4efc0b" />
+
+---
